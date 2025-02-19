@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "acs-course-stuttgart-449514",
+  "private_key_id": "2d0783dab031947f98d70127f3f5ebc51ecb76b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHDnA5cZkSzfPZ\njEbvuHo6p8vqeGx1/H/p5vCRxjP+aHJL5JSVVf18d3MlErOqhA5UeixgPbaZD/vy\nhUT1+vm/EhZqEN8yQWZhWeOXSL3OpHwVy+ZfD5E6kWD+rdmfpnxnDWqqLdQlPLWg\nk9iYIM1AKZYYwdntPypG0u/nXKvi41sq0hAX+1ITzo3Ls5Cy2IMRc/XAOmGZA6Tz\nGQUOo9wB0OhI5EKB0oSmAYXI6XPXpYHgzf6D9Og+Cc5WpcHaLWS0B8GL+Dm1Mn+e\nbZklYXrAipebl6lDOEMYvRi7GCXCVeP2GmBHuCv77RM1tnLLtkmZNgxZQ0IEeYlV\ngtnRxh6lAgMBAAECggEACH/B9nw2jppX2iJrGKsIaP7eG9NrLq/mDWhn9LclrVCi\nxK81muJt0apPIFsHtT4w6ZYKHkxrHfjvh1aQFJKdONDsY+8bxR2evWDuOh11oTuU\n0HLcf5NHzDe8tPekBQdBrdBzw/MYRI1TP6uXONOeSQWLQLwSKVb/lpuOC7gTld+P\nPSk5s5TsyK5O2WIvYMjV9J5DbLuADMOF5sEHpoSO85HcFRayACt4S9wzRdo0mqJa\nZkIoY7B+wgR7ToErAwNTMVbOPDENpCGdnpLn/r2DwYwUSSL90tcS6AF1agCjNWmp\nc3wNp21M7BU2iN5bWi4d/E9t8COdPly32Iboz7C4dwKBgQDrxN1wRfA9haEZVv4k\ni2nZSFPrUQe+F8qK5O7SURYxYt0HMP8mfi6jE2MLxwdQg8TfCufsaBU9T4cQPucI\nHrP3sacOCSN5CrQxrWkQYrgWMJJFlBfgo3e7waUrE1g3o625myIpElhxDVDF6DQR\nQBBoOpediVPmLnbcD6Z7gDN41wKBgQDYIxun8qI8SkyGaLUreb6RcqMNeTJEOswv\nP5f6aa4TRSzu/17j09PvOfLtK+dqYcSPQPCQrOdy68HbxLkT9gjLCvbvgCbMitrI\nBRwcp7sg6J9xb2+EBjUKdbb4/XmLWTa9nBhE5pGUBzOd+vBwb1Q7k2h3LVGZq5O8\niQqIJtbI4wKBgQDN7JegjWWExqdrs4CsOJxN7I9nk9GYZb1BTS2OwsYIgpocwt3I\nKCPhyXgT/FVWLJESYrsoz8vlTgXg2Z/+hpqXuDH53199RC0YyqZeamrw7qGDZhLo\n4L4eXsc9dVry1eJRn77Zcq2OqJupD+QSQQtTjgGI1j5SaLjmAkFd0x6h5wKBgEkG\nu65oJXaXZ/m14RiaXtAH2p2PyHMTJrAEHZZnJICwS7lIoUf6502Z18FYpyzjcaUx\nPNa1BNJoY6yccCgVZe0sfDh5pSJQ/BC+4TuxVGGPF2gdTaFe84bgNP01r15suzkf\nR3foK2HHeSI0ig6DHwOuD4rMzhhMx3LZHqzX6pQfAoGBALfsEQxHuvWYe5nn7i7U\ndoldhxU1I2OdrPcVVMfptmdMEVIopFhGFwwPrGp557HNJlUEaaGxsm0rKKsV6Evc\nWy8aIy2jcux6nw+ERRxj/aySxSWz3HZmqgFh9HY5nTlCLyIIJ+dnJpQ7jH7mdr6R\nIiFtPhadD6jcsGCre8amRcQX\n-----END PRIVATE KEY-----\n",
+  "client_email": "project@acs-course-stuttgart-449514.iam.gserviceaccount.com",
+  "client_id": "100116888238557122357",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project%40acs-course-stuttgart-449514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
