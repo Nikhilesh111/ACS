@@ -1,0 +1,3 @@
+"Developed the UI/UX of the application.
+Worked on establishing the connection between Java Spring Boot and Google Cloud Platform (GCP).
+In GCP, created buckets and instances." 
